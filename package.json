@@ -1,5 +1,8 @@
 {
-  "name": "react-design-system",
+  "name": "@nicomanzato/react-component-library",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@nicomanzato"
+  },
   "version": "1.0.0",
   "description": "",
   "scripts": {
